@@ -1,0 +1,1 @@
+printenv coreutils /usr/local/opt/coreutils/bin/gprintenv

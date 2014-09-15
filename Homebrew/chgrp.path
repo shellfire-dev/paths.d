@@ -1,0 +1,1 @@
+chgrp coreutils /usr/local/opt/coreutils/bin/gchgrp

@@ -1,0 +1,1 @@
+chcon coreutils /usr/local/opt/coreutils/bin/gchcon
