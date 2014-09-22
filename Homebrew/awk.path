@@ -1,1 +1,1 @@
-awk gawk /usr/local/bin/gawk
+awk gawk /usr/local/opt/gawk/bin/awk
