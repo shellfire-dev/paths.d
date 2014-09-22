@@ -1,1 +1,1 @@
-users coreutils /usr/local/opt/coreutils/bin/gusers
+users coreutils /usr/local/opt/coreutils/libexec/gnubin/gusers

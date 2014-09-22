@@ -1,1 +1,1 @@
-mktemp coreutils /usr/local/opt/coreutils/bin/gmktemp
+mktemp coreutils /usr/local/opt/coreutils/libexec/gnubin/gmktemp

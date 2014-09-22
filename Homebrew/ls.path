@@ -1,1 +1,1 @@
-ls coreutils /usr/local/opt/coreutils/bin/gls
+ls coreutils /usr/local/opt/coreutils/libexec/gnubin/gls

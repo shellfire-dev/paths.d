@@ -1,1 +1,1 @@
-sha512sum coreutils /usr/local/opt/coreutils/bin/gsha512sum
+sha512sum coreutils /usr/local/opt/coreutils/libexec/gnubin/gsha512sum

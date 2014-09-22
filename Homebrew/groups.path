@@ -1,1 +1,1 @@
-groups coreutils /usr/local/opt/coreutils/bin/ggroups
+groups coreutils /usr/local/opt/coreutils/libexec/gnubin/ggroups

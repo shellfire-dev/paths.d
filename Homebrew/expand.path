@@ -1,1 +1,1 @@
-expand coreutils /usr/local/opt/coreutils/bin/gexpand
+expand coreutils /usr/local/opt/coreutils/libexec/gnubin/gexpand

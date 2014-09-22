@@ -1,1 +1,1 @@
-sleep coreutils /usr/local/opt/coreutils/bin/gsleep
+sleep coreutils /usr/local/opt/coreutils/libexec/gnubin/gsleep

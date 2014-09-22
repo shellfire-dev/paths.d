@@ -1,1 +1,1 @@
-kill coreutils /usr/local/opt/coreutils/bin/gkill
+kill coreutils /usr/local/opt/coreutils/libexec/gnubin/gkill

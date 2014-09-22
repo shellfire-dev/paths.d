@@ -1,1 +1,1 @@
-factor coreutils /usr/local/opt/coreutils/bin/gfactor
+factor coreutils /usr/local/opt/coreutils/libexec/gnubin/gfactor

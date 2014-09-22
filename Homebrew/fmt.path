@@ -1,1 +1,1 @@
-fmt coreutils /usr/local/opt/coreutils/bin/gfmt
+fmt coreutils /usr/local/opt/coreutils/libexec/gnubin/gfmt

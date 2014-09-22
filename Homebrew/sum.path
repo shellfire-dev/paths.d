@@ -1,1 +1,1 @@
-sum coreutils /usr/local/opt/coreutils/bin/gsum
+sum coreutils /usr/local/opt/coreutils/libexec/gnubin/gsum

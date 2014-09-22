@@ -1,1 +1,1 @@
-du coreutils /usr/local/opt/coreutils/bin/gdu
+du coreutils /usr/local/opt/coreutils/libexec/gnubin/gdu

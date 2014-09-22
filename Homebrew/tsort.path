@@ -1,1 +1,1 @@
-tsort coreutils /usr/local/opt/coreutils/bin/gtsort
+tsort coreutils /usr/local/opt/coreutils/libexec/gnubin/gtsort

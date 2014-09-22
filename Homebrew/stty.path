@@ -1,1 +1,1 @@
-stty coreutils /usr/local/opt/coreutils/bin/gstty
+stty coreutils /usr/local/opt/coreutils/libexec/gnubin/gstty

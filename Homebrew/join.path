@@ -1,1 +1,1 @@
-join coreutils /usr/local/opt/coreutils/bin/gjoin
+join coreutils /usr/local/opt/coreutils/libexec/gnubin/gjoin

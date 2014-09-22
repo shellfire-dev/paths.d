@@ -1,1 +1,1 @@
-mknod coreutils /usr/local/opt/coreutils/bin/gmknod
+mknod coreutils /usr/local/opt/coreutils/libexec/gnubin/gmknod

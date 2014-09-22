@@ -1,1 +1,1 @@
-nohup coreutils /usr/local/opt/coreutils/bin/gnohup
+nohup coreutils /usr/local/opt/coreutils/libexec/gnubin/gnohup

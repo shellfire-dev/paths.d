@@ -1,1 +1,1 @@
-vdir coreutils /usr/local/opt/coreutils/bin/gvdir
+vdir coreutils /usr/local/opt/coreutils/libexec/gnubin/gvdir

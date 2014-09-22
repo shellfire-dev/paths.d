@@ -1,1 +1,1 @@
-csplit coreutils /usr/local/opt/coreutils/bin/gcsplit
+csplit coreutils /usr/local/opt/coreutils/libexec/gnubin/gcsplit

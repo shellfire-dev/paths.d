@@ -1,1 +1,1 @@
-uptime coreutils /usr/local/opt/coreutils/bin/guptime
+uptime coreutils /usr/local/opt/coreutils/libexec/gnubin/guptime

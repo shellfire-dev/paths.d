@@ -1,1 +1,1 @@
-shred coreutils /usr/local/opt/coreutils/bin/gshred
+shred coreutils /usr/local/opt/coreutils/libexec/gnubin/gshred

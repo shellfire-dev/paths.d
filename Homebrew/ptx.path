@@ -1,1 +1,1 @@
-ptx coreutils /usr/local/opt/coreutils/bin/gptx
+ptx coreutils /usr/local/opt/coreutils/libexec/gnubin/gptx
