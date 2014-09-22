@@ -1,1 +1,1 @@
-tail coreutils /usr/local/opt/coreutils/libexec/gnubin/gtail
+tail coreutils /usr/local/opt/coreutils/libexec/gnubin/tail

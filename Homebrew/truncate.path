@@ -1,1 +1,1 @@
-truncate coreutils /usr/local/opt/coreutils/libexec/gnubin/gtruncate
+truncate coreutils /usr/local/opt/coreutils/libexec/gnubin/truncate

@@ -1,1 +1,1 @@
-sha1sum coreutils /usr/local/opt/coreutils/libexec/gnubin/gsha1sum
+sha1sum coreutils /usr/local/opt/coreutils/libexec/gnubin/sha1sum

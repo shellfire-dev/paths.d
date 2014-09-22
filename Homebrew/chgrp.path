@@ -1,1 +1,1 @@
-chgrp coreutils /usr/local/opt/coreutils/libexec/gnubin/gchgrp
+chgrp coreutils /usr/local/opt/coreutils/libexec/gnubin/chgrp

@@ -1,1 +1,1 @@
-printenv coreutils /usr/local/opt/coreutils/libexec/gnubin/gprintenv
+printenv coreutils /usr/local/opt/coreutils/libexec/gnubin/printenv

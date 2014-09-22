@@ -1,1 +1,1 @@
-basename coreutils /usr/local/opt/coreutils/libexec/gnubin/gbasename
+basename coreutils /usr/local/opt/coreutils/libexec/gnubin/basename

@@ -1,1 +1,1 @@
-ln coreutils /usr/local/opt/coreutils/libexec/gnubin/gln
+ln coreutils /usr/local/opt/coreutils/libexec/gnubin/ln

@@ -1,1 +1,1 @@
-mkfifo coreutils /usr/local/opt/coreutils/libexec/gnubin/gmkfifo
+mkfifo coreutils /usr/local/opt/coreutils/libexec/gnubin/mkfifo
