@@ -1,2 +1,1 @@
-egrep homebrew/dupes/grep /usr/local/bin/gegrep
-# also fgrep
+egrep homebrew/dupes/grep /usr/local/opt/grep/bin/gegrep

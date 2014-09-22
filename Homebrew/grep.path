@@ -1,1 +1,1 @@
-grep homebrew/dupes/grep /usr/local/bin/ggrep
+grep homebrew/dupes/grep /usr/local/opt/grep/bin/ggrep
