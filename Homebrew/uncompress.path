@@ -1,0 +1,1 @@
+uncompress homebrew/dupes/gzip /usr/local/opt/gzip/bin/uncompress
