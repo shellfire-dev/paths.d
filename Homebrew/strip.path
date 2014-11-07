@@ -1,0 +1,1 @@
+strip binutils /usr/local/opt/binutils/bin/gstrip
