@@ -1,1 +1,1 @@
-rsync homebrew/dupes/rsyncrsync /usr/local/opt/rsync/bin/rsync
+rsync homebrew/dupes/rsync /usr/local/opt/rsync/bin/rsync
