@@ -1,0 +1,1 @@
+chcon coreutils /usr/bin/chcon
