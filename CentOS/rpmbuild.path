@@ -1,0 +1,1 @@
+rpmbuild rpm-build /usr/bin/rpmbuild
