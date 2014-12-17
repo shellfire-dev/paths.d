@@ -1,0 +1,1 @@
+pandoc epel/pandoc /usr/bin/pandoc
