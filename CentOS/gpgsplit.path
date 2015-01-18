@@ -1,1 +1,1 @@
-gpgsplit gnupg2 /usr/bin/gpgsplit
+gpgsplit gnupg /usr/bin/gpgsplit
