@@ -1,1 +1,1 @@
-zip .macosx /usr/bin/zip
+zip zip /usr/local/bin/zip
