@@ -1,0 +1,1 @@
+rpmbuild rpm4 /usr/local/bin/rpmbuild
