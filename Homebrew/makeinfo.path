@@ -1,1 +1,1 @@
-makeinfo texinfo /usr/local/bin/makeinfo
+makeinfo texinfo /usr/local/opt/texinfo/bin/makeinfo

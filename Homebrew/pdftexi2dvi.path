@@ -1,1 +1,1 @@
-pdftexi2dvi texinfo /usr/local/bin/pdftexi2dvi
+pdftexi2dvi texinfo /usr/local/opt/texinfo/bin/pdftexi2dvi

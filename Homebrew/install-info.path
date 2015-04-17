@@ -1,1 +1,1 @@
-install-info texinfo /usr/local/bin/install-info
+install-info texinfo /usr/local/opt/texinfo/bin/install-info

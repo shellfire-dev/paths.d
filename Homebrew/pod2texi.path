@@ -1,1 +1,1 @@
-pod2texi texinfo /usr/local/bin/pod2texi
+pod2texi texinfo /usr/local/opt/texinfo/bin/pod2texi
