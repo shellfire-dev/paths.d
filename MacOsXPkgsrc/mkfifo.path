@@ -1,0 +1,1 @@
+mkfifo coreutils /opt/pkg/gnu/bin/mkfifo
