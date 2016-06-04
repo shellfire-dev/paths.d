@@ -1,0 +1,1 @@
+truncate busybox /usr/bin/truncate
